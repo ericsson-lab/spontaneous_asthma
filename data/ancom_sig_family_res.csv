@@ -1,0 +1,246 @@
+"","taxa_id","W","detected_0.9","detected_0.8","detected_0.7","detected_0.6"
+"1","Ambiguous_taxa",211,FALSE,TRUE,TRUE,TRUE
+"2","0319-6G20",9,FALSE,FALSE,FALSE,FALSE
+"3","67-14",8,FALSE,FALSE,FALSE,FALSE
+"4","A0839",10,FALSE,FALSE,FALSE,FALSE
+"5","Acetobacteraceae",8,FALSE,FALSE,FALSE,FALSE
+"6","Acholeplasmataceae",11,FALSE,FALSE,FALSE,FALSE
+"7","Acholeplasmatales bacterium canine oral taxon 316",11,FALSE,FALSE,FALSE,FALSE
+"8","Acidaminococcaceae",9,FALSE,FALSE,FALSE,FALSE
+"9","Actinomycetaceae",230,TRUE,TRUE,TRUE,TRUE
+"10","Aerococcaceae",11,FALSE,FALSE,FALSE,FALSE
+"11","Aeromonadaceae",8,FALSE,FALSE,FALSE,FALSE
+"12","Akkermansiaceae",11,FALSE,FALSE,FALSE,FALSE
+"13","AKYH767",10,FALSE,FALSE,FALSE,FALSE
+"14","Alteromonadaceae",10,FALSE,FALSE,FALSE,FALSE
+"15","Anaerolineaceae",10,FALSE,FALSE,FALSE,FALSE
+"16","Anaeroplasmataceae",10,FALSE,FALSE,FALSE,FALSE
+"17","Aquaspirillaceae",11,FALSE,FALSE,FALSE,FALSE
+"18","Archangiaceae",10,FALSE,FALSE,FALSE,FALSE
+"19","Arcobacteraceae",12,FALSE,FALSE,FALSE,FALSE
+"20","Armatimonadaceae",10,FALSE,FALSE,FALSE,FALSE
+"21","Atopobiaceae",9,FALSE,FALSE,FALSE,FALSE
+"22","Azospirillaceae",10,FALSE,FALSE,FALSE,FALSE
+"23","Babeliaceae",10,FALSE,FALSE,FALSE,FALSE
+"24","Bacillaceae",3,FALSE,FALSE,FALSE,FALSE
+"25","bacteriap25",10,FALSE,FALSE,FALSE,FALSE
+"26","Bacteriovoracaceae",10,FALSE,FALSE,FALSE,FALSE
+"27","bacterium LWQ8",10,FALSE,FALSE,FALSE,FALSE
+"28","Bacteroidaceae",6,FALSE,FALSE,FALSE,FALSE
+"29","Barnesiellaceae",10,FALSE,FALSE,FALSE,FALSE
+"30","Bdellovibrionaceae",8,FALSE,FALSE,FALSE,FALSE
+"31","Beijerinckiaceae",5,FALSE,FALSE,FALSE,FALSE
+"32","Bifidobacteriaceae",6,FALSE,FALSE,FALSE,FALSE
+"33","BIrii41",10,FALSE,FALSE,FALSE,FALSE
+"34","Blastocatellaceae",10,FALSE,FALSE,FALSE,FALSE
+"35","Blattabacteriaceae",10,FALSE,FALSE,FALSE,FALSE
+"36","Brevibacteriaceae",10,FALSE,FALSE,FALSE,FALSE
+"37","Brocadiaceae",10,FALSE,FALSE,FALSE,FALSE
+"38","Burkholderiaceae",241,TRUE,TRUE,TRUE,TRUE
+"39","Caldilineaceae",10,FALSE,FALSE,FALSE,FALSE
+"40","Campylobacteraceae",8,FALSE,FALSE,FALSE,FALSE
+"41","candidate division SR1 bacterium taxon 345",10,FALSE,FALSE,FALSE,FALSE
+"42","Candidatus Adlerbacteria bacterium GW2011_GWC1_50_9",10,FALSE,FALSE,FALSE,FALSE
+"43","Candidatus Lloydbacteria bacterium RIFOXYC12_FULL_46_25",10,FALSE,FALSE,FALSE,FALSE
+"44","Candidatus Magasanikbacteria bacterium RIFCSPHIGHO2_12_FULL_41_16",10,FALSE,FALSE,FALSE,FALSE
+"45","Candidatus Magasanikbacteria bacterium RIFOXYD1_FULL_40_23",11,FALSE,FALSE,FALSE,FALSE
+"46","Candidatus Pacearchaeota archaeon RBG_19FT_COMBO_34_9",10,FALSE,FALSE,FALSE,FALSE
+"47","Candidatus Saccharibacteria bacterium UB2523",10,FALSE,FALSE,FALSE,FALSE
+"48","Candidatus Staskawiczbacteria bacterium RIFCSPHIGHO2_01_FULL_34_27",10,FALSE,FALSE,FALSE,FALSE
+"49","Candidatus Staskawiczbacteria bacterium RIFOXYA2_FULL_32_7",8,FALSE,FALSE,FALSE,FALSE
+"50","Candidatus Yanofskybacteria bacterium RIFCSPHIGHO2_02_FULL_46_19",10,FALSE,FALSE,FALSE,FALSE
+"51","Candidatus Zambryskibacteria bacterium RIFCSPLOWO2_02_FULL_51_21",9,FALSE,FALSE,FALSE,FALSE
+"52","Cardiobacteriaceae",9,FALSE,FALSE,FALSE,FALSE
+"53","Carnobacteriaceae",5,FALSE,FALSE,FALSE,FALSE
+"54","Caulobacteraceae",4,FALSE,FALSE,FALSE,FALSE
+"55","Cellvibrionaceae",8,FALSE,FALSE,FALSE,FALSE
+"56","Chitinophagaceae",229,TRUE,TRUE,TRUE,TRUE
+"57","Christensenellaceae",8,FALSE,FALSE,FALSE,FALSE
+"58","Chroococcidiopsaceae",10,FALSE,FALSE,FALSE,FALSE
+"59","Chthoniobacteraceae",10,FALSE,FALSE,FALSE,FALSE
+"60","Clostridiaceae 1",206,FALSE,TRUE,TRUE,TRUE
+"61","Clostridiaceae 3",7,FALSE,FALSE,FALSE,FALSE
+"62","Clostridiales vadinBB60 group",10,FALSE,FALSE,FALSE,FALSE
+"63","Coriobacteriaceae",5,FALSE,FALSE,FALSE,FALSE
+"64","Coriobacteriales Incertae Sedis",10,FALSE,FALSE,FALSE,FALSE
+"65","Corynebacteriaceae",224,TRUE,TRUE,TRUE,TRUE
+"66","Crocinitomicaceae",9,FALSE,FALSE,FALSE,FALSE
+"67","Cryptosporangiaceae",10,FALSE,FALSE,FALSE,FALSE
+"68","cvE6",10,FALSE,FALSE,FALSE,FALSE
+"69","Cytophagaceae",10,FALSE,FALSE,FALSE,FALSE
+"70","Deferribacteraceae",10,FALSE,FALSE,FALSE,FALSE
+"71","Defluviitaleaceae",11,FALSE,FALSE,FALSE,FALSE
+"72","Deinococcaceae",10,FALSE,FALSE,FALSE,FALSE
+"73","Dermabacteraceae",10,FALSE,FALSE,FALSE,FALSE
+"74","Desulfarculaceae",10,FALSE,FALSE,FALSE,FALSE
+"75","Desulfomicrobiaceae",10,FALSE,FALSE,FALSE,FALSE
+"76","Desulfovibrionaceae",10,FALSE,FALSE,FALSE,FALSE
+"77","Devosiaceae",8,FALSE,FALSE,FALSE,FALSE
+"78","Dietziaceae",10,FALSE,FALSE,FALSE,FALSE
+"79","Diplorickettsiaceae",10,FALSE,FALSE,FALSE,FALSE
+"80","Dysgonomonadaceae",10,FALSE,FALSE,FALSE,FALSE
+"81","Eggerthellaceae",10,FALSE,FALSE,FALSE,FALSE
+"82","Enterobacteriaceae",9,FALSE,FALSE,FALSE,FALSE
+"83","Enterococcaceae",10,FALSE,FALSE,FALSE,FALSE
+"84","env.OPS 17",10,FALSE,FALSE,FALSE,FALSE
+"85","Erysipelotrichaceae",9,FALSE,FALSE,FALSE,FALSE
+"86","Euzebyaceae",10,FALSE,FALSE,FALSE,FALSE
+"87","F082",10,FALSE,FALSE,FALSE,FALSE
+"88","Family X",10,FALSE,FALSE,FALSE,FALSE
+"89","Family XI",8,FALSE,FALSE,FALSE,FALSE
+"90","Family XII",11,FALSE,FALSE,FALSE,FALSE
+"91","Family XIII",9,FALSE,FALSE,FALSE,FALSE
+"92","Family XVII",10,FALSE,FALSE,FALSE,FALSE
+"93","Fimbriimonadaceae",10,FALSE,FALSE,FALSE,FALSE
+"94","Flavobacteriaceae",10,FALSE,FALSE,FALSE,FALSE
+"95","Fusobacteriaceae",5,FALSE,FALSE,FALSE,FALSE
+"96","Gemmataceae",10,FALSE,FALSE,FALSE,FALSE
+"97","Gemmatimonadaceae",10,FALSE,FALSE,FALSE,FALSE
+"98","Gracilibacteria bacterium canine oral taxon 394",11,FALSE,FALSE,FALSE,FALSE
+"99","Haliangiaceae",8,FALSE,FALSE,FALSE,FALSE
+"100","Halieaceae",10,FALSE,FALSE,FALSE,FALSE
+"101","Halomonadaceae",7,FALSE,FALSE,FALSE,FALSE
+"102","Helicobacteraceae",15,FALSE,FALSE,FALSE,FALSE
+"103","Herpetosiphonaceae",10,FALSE,FALSE,FALSE,FALSE
+"104","Holophagaceae",10,FALSE,FALSE,FALSE,FALSE
+"105","Holosporaceae",10,FALSE,FALSE,FALSE,FALSE
+"106","Hydrogenophilaceae",8,FALSE,FALSE,FALSE,FALSE
+"107","Hymenobacteraceae",10,FALSE,FALSE,FALSE,FALSE
+"108","Hyphomicrobiaceae",10,FALSE,FALSE,FALSE,FALSE
+"109","Intrasporangiaceae",10,FALSE,FALSE,FALSE,FALSE
+"110","Isosphaeraceae",10,FALSE,FALSE,FALSE,FALSE
+"111","JG30-KF-CM45",10,FALSE,FALSE,FALSE,FALSE
+"112","Kineosporiaceae",10,FALSE,FALSE,FALSE,FALSE
+"113","Lachnospiraceae",5,FALSE,FALSE,FALSE,FALSE
+"114","Lactobacillaceae",6,FALSE,FALSE,FALSE,FALSE
+"115","Legionellaceae",10,FALSE,FALSE,FALSE,FALSE
+"116","Lentimicrobiaceae",10,FALSE,FALSE,FALSE,FALSE
+"117","Leptotrichiaceae",195,FALSE,FALSE,TRUE,TRUE
+"118","Leuconostocaceae",8,FALSE,FALSE,FALSE,FALSE
+"119","Listeriaceae",187,FALSE,FALSE,TRUE,TRUE
+"120","LiUU-11-161",10,FALSE,FALSE,FALSE,FALSE
+"121","Marinifilaceae",11,FALSE,FALSE,FALSE,FALSE
+"122","Marinilabiliaceae",10,FALSE,FALSE,FALSE,FALSE
+"123","metagenome",7,FALSE,FALSE,FALSE,FALSE
+"124","Methanomicrobiaceae",10,FALSE,FALSE,FALSE,FALSE
+"125","Methyloligellaceae",10,FALSE,FALSE,FALSE,FALSE
+"126","Methylophilaceae",10,FALSE,FALSE,FALSE,FALSE
+"127","Micavibrionaceae",10,FALSE,FALSE,FALSE,FALSE
+"128","Microbacteriaceae",5,FALSE,FALSE,FALSE,FALSE
+"129","Micrococcaceae",6,FALSE,FALSE,FALSE,FALSE
+"130","Micropepsaceae",10,FALSE,FALSE,FALSE,FALSE
+"131","Microscillaceae",10,FALSE,FALSE,FALSE,FALSE
+"132","Microtrichaceae",10,FALSE,FALSE,FALSE,FALSE
+"133","Mitochondria",7,FALSE,FALSE,FALSE,FALSE
+"134","mle1-27",10,FALSE,FALSE,FALSE,FALSE
+"135","Moraxellaceae",2,FALSE,FALSE,FALSE,FALSE
+"136","Moritellaceae",5,FALSE,FALSE,FALSE,FALSE
+"137","Muribaculaceae",10,FALSE,FALSE,FALSE,FALSE
+"138","Mycoplasmataceae",229,TRUE,TRUE,TRUE,TRUE
+"139","Nakamurellaceae",7,FALSE,FALSE,FALSE,FALSE
+"140","Neisseriaceae",7,FALSE,FALSE,FALSE,FALSE
+"141","Nitrosomonadaceae",11,FALSE,FALSE,FALSE,FALSE
+"142","Nitrososphaeraceae",10,FALSE,FALSE,FALSE,FALSE
+"143","Nitrosotaleaceae",10,FALSE,FALSE,FALSE,FALSE
+"144","Nocardiaceae",8,FALSE,FALSE,FALSE,FALSE
+"145","Nocardioidaceae",10,FALSE,FALSE,FALSE,FALSE
+"146","Nocardiopsaceae",10,FALSE,FALSE,FALSE,FALSE
+"147","NS11-12 marine group",10,FALSE,FALSE,FALSE,FALSE
+"148","NS9 marine group",11,FALSE,FALSE,FALSE,FALSE
+"149","Oligoflexaceae",10,FALSE,FALSE,FALSE,FALSE
+"150","Omnitrophaceae",10,FALSE,FALSE,FALSE,FALSE
+"151","Opitutaceae",10,FALSE,FALSE,FALSE,FALSE
+"152","Orbaceae",10,FALSE,FALSE,FALSE,FALSE
+"153","P3OB-42",10,FALSE,FALSE,FALSE,FALSE
+"154","Paenibacillaceae",8,FALSE,FALSE,FALSE,FALSE
+"155","Paludibacteraceae",10,FALSE,FALSE,FALSE,FALSE
+"156","Paracaedibacteraceae",10,FALSE,FALSE,FALSE,FALSE
+"157","Parachlamydiaceae",10,FALSE,FALSE,FALSE,FALSE
+"158","Parcubacteria bacterium C7867-005",10,FALSE,FALSE,FALSE,FALSE
+"159","Parcubacteria group bacterium GW2011_GWA2_40_14",10,FALSE,FALSE,FALSE,FALSE
+"160","Parcubacteria group bacterium GW2011_GWA2_42_14",9,FALSE,FALSE,FALSE,FALSE
+"161","Parcubacteria group bacterium GW2011_GWB1_42_6",10,FALSE,FALSE,FALSE,FALSE
+"162","Pasteurellaceae",9,FALSE,FALSE,FALSE,FALSE
+"163","Pedosphaeraceae",10,FALSE,FALSE,FALSE,FALSE
+"164","Peptococcaceae",10,FALSE,FALSE,FALSE,FALSE
+"165","Peptostreptococcaceae",10,FALSE,FALSE,FALSE,FALSE
+"166","Phaselicystidaceae",9,FALSE,FALSE,FALSE,FALSE
+"167","Phormidiaceae",10,FALSE,FALSE,FALSE,FALSE
+"168","Pirellulaceae",10,FALSE,FALSE,FALSE,FALSE
+"169","Piscirickettsiaceae",10,FALSE,FALSE,FALSE,FALSE
+"170","Planococcaceae",2,FALSE,FALSE,FALSE,FALSE
+"171","Polyangiaceae",5,FALSE,FALSE,FALSE,FALSE
+"172","Porphyromonadaceae",229,TRUE,TRUE,TRUE,TRUE
+"173","Prevotellaceae",7,FALSE,FALSE,FALSE,FALSE
+"174","Prolixibacteraceae",10,FALSE,FALSE,FALSE,FALSE
+"175","Propionibacteriaceae",237,TRUE,TRUE,TRUE,TRUE
+"176","Pseudanabaenaceae",10,FALSE,FALSE,FALSE,FALSE
+"177","Pseudoalteromonadaceae",9,FALSE,FALSE,FALSE,FALSE
+"178","Pseudomonadaceae",244,TRUE,TRUE,TRUE,TRUE
+"179","Pseudonocardiaceae",10,FALSE,FALSE,FALSE,FALSE
+"180","Pyrinomonadaceae",10,FALSE,FALSE,FALSE,FALSE
+"181","Reyranellaceae",10,FALSE,FALSE,FALSE,FALSE
+"182","Rhizobiaceae",11,FALSE,FALSE,FALSE,FALSE
+"183","Rhodanobacteraceae",10,FALSE,FALSE,FALSE,FALSE
+"184","Rhodobacteraceae",10,FALSE,FALSE,FALSE,FALSE
+"185","Rhodopirillaceae",10,FALSE,FALSE,FALSE,FALSE
+"186","Rickettsiaceae",10,FALSE,FALSE,FALSE,FALSE
+"187","Rikenellaceae",12,FALSE,FALSE,FALSE,FALSE
+"188","Rs-M59 termite group",10,FALSE,FALSE,FALSE,FALSE
+"189","Rubritaleaceae",10,FALSE,FALSE,FALSE,FALSE
+"190","Rubrobacteriaceae",10,FALSE,FALSE,FALSE,FALSE
+"191","Ruminococcaceae",5,FALSE,FALSE,FALSE,FALSE
+"192","Saccharimonadaceae",11,FALSE,FALSE,FALSE,FALSE
+"193","Sandaracinaceae",10,FALSE,FALSE,FALSE,FALSE
+"194","Saprospiraceae",11,FALSE,FALSE,FALSE,FALSE
+"195","SB-5",10,FALSE,FALSE,FALSE,FALSE
+"196","Schlesneriaceae",10,FALSE,FALSE,FALSE,FALSE
+"197","Simkaniaceae",10,FALSE,FALSE,FALSE,FALSE
+"198","SM2D12",10,FALSE,FALSE,FALSE,FALSE
+"199","Solibacteraceae (Subgroup 3)",10,FALSE,FALSE,FALSE,FALSE
+"200","Solimonadaceae",10,FALSE,FALSE,FALSE,FALSE
+"201","Solirubrobacteraceae",10,FALSE,FALSE,FALSE,FALSE
+"202","Sphingobacteriaceae",230,TRUE,TRUE,TRUE,TRUE
+"203","Sphingomonadaceae",242,TRUE,TRUE,TRUE,TRUE
+"204","Spirochaetaceae",11,FALSE,FALSE,FALSE,FALSE
+"205","Spirosomaceae",210,FALSE,TRUE,TRUE,TRUE
+"206","Sporichthyaceae",182,FALSE,FALSE,TRUE,TRUE
+"207","Sporolactobacillaceae",10,FALSE,FALSE,FALSE,FALSE
+"208","SR1 bacterium canine oral taxon 380",8,FALSE,FALSE,FALSE,FALSE
+"209","SR1 bacterium canine oral taxon 382",10,FALSE,FALSE,FALSE,FALSE
+"210","Staphylococcaceae",235,TRUE,TRUE,TRUE,TRUE
+"211","Steroidobacteraceae",10,FALSE,FALSE,FALSE,FALSE
+"212","Streptococcaceae",211,FALSE,TRUE,TRUE,TRUE
+"213","Succinivibrionaceae",210,FALSE,TRUE,TRUE,TRUE
+"214","Sulfurospirillaceae",10,FALSE,FALSE,FALSE,FALSE
+"215","Synergistaceae",10,FALSE,FALSE,FALSE,FALSE
+"216","Tannerellaceae",11,FALSE,FALSE,FALSE,FALSE
+"217","Terrimicrobiaceae",10,FALSE,FALSE,FALSE,FALSE
+"218","Thermaceae",9,FALSE,FALSE,FALSE,FALSE
+"219","Thiovulaceae",10,FALSE,FALSE,FALSE,FALSE
+"220","uncultured",8,FALSE,FALSE,FALSE,FALSE
+"221","uncultured anaerobic bacterium",10,FALSE,FALSE,FALSE,FALSE
+"222","uncultured bacterium",179,FALSE,FALSE,TRUE,TRUE
+"223","uncultured bacterium SBR2113",10,FALSE,FALSE,FALSE,FALSE
+"224","uncultured Banisveld landfill bacterium BVC56",10,FALSE,FALSE,FALSE,FALSE
+"225","uncultured candidate division SR1 bacterium",10,FALSE,FALSE,FALSE,FALSE
+"226","uncultured euryarchaeote",10,FALSE,FALSE,FALSE,FALSE
+"227","uncultured Firmicutes bacterium",10,FALSE,FALSE,FALSE,FALSE
+"228","uncultured Flexibacter sp.",10,FALSE,FALSE,FALSE,FALSE
+"229","uncultured Omnitrophica bacterium",10,FALSE,FALSE,FALSE,FALSE
+"230","uncultured Parcubacteria group bacterium",8,FALSE,FALSE,FALSE,FALSE
+"231","uncultured rumen bacterium",10,FALSE,FALSE,FALSE,FALSE
+"232","uncultured soil bacterium",10,FALSE,FALSE,FALSE,FALSE
+"233","uncultured Sphingobium sp.",10,FALSE,FALSE,FALSE,FALSE
+"234","unidentified",10,FALSE,FALSE,FALSE,FALSE
+"235","unidentified rhodophyte PRD01a010B",10,FALSE,FALSE,FALSE,FALSE
+"236","Unknown Family",10,FALSE,FALSE,FALSE,FALSE
+"237","Veillonellaceae",6,FALSE,FALSE,FALSE,FALSE
+"238","Vermiphilaceae",10,FALSE,FALSE,FALSE,FALSE
+"239","Vibrionaceae",180,FALSE,FALSE,TRUE,TRUE
+"240","wastewater metagenome",10,FALSE,FALSE,FALSE,FALSE
+"241","WD2101 soil group",10,FALSE,FALSE,FALSE,FALSE
+"242","Weeksellaceae",230,TRUE,TRUE,TRUE,TRUE
+"243","Xanthobacteraceae",239,TRUE,TRUE,TRUE,TRUE
+"244","Xanthomonadaceae",4,FALSE,FALSE,FALSE,FALSE
+"245","Undefined Family",218,FALSE,TRUE,TRUE,TRUE
